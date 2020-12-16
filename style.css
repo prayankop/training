@@ -1,0 +1,48 @@
+html {
+    font-family: 'Roboto', sans-serif;
+    background-color: #F5F5F5;
+    background-size: 100% 100%;
+}
+
+body {
+    background-color: #F5F5F5;
+}
+
+.gds {
+
+    background: url("test.jfif") no-repeat 0px -3px;
+    display: block;
+    padding-top: 30px;
+    height: 20px;
+
+}
+
+h2 {
+    display: inline;
+    text-align: center;
+    background-color: #F5F5F5;
+    padding-left: 50%;
+}
+
+#new {
+    margin-left: 400px;
+}
+
+.logo {
+    height: 250px;
+    width: 250px;
+    padding-bottom: 45px;
+}
+
+#exit {
+    height: 350px;
+    width: 300px;
+}
+
+.three {
+    margin-left: 175px;
+}
+
+redial {
+    margin-right: 150px;
+}
